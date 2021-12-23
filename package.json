@@ -1,0 +1,23 @@
+{
+  "name": "vuepress-doc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaleyyang/vuepress-doc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaleyyang/vuepress-doc/issues"
+  },
+  "homepage": "https://github.com/kaleyyang/vuepress-doc#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.1"
+  }
+}
